@@ -38,6 +38,15 @@ Ask your agent:
 Use docify on this repository and write maintainer handover documentation. Include evidence from code, stale-doc mismatches, verification commands, and remaining unverified gaps.
 ```
 
+## Recommended Companions
+
+Docify works on its own, but pairs especially well with:
+
+- `code-review-graph` for repository structure, symbol relationships, and impact analysis before writing the handover.
+- `ponytail` for over-engineering checks, deletion candidates, and simpler maintenance paths.
+
+Together, they make handover docs less like static notes and more like a practical maintainer map: what exists, what depends on what, what can break, and what can probably be simplified.
+
 ## Good Fits
 
 - Maintainer handover docs

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docify"
+  short_description: "Evidence-based repo handover docs"
+  default_prompt: "Use $docify to deeply read this repo and create an evidence-based handover document."
